@@ -14,5 +14,3 @@ router
   .delete(booksController.remove);
 
 module.exports = router;
-
-AIzaSyCjiWjpjw7uskHRlDfKpt9MSQoNo9MUS6M
